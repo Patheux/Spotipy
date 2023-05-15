@@ -46,3 +46,5 @@ client_secret = '1234'                					# Mot de Passe du client
 redirect_uri = 'https://www.printables.com/'    # La même URL que celle rentrée dans L'API de Spotify
 username = 'JohnSmith'                   			  # Nom d'utilisateur Spotify
 ```
+
+C'est prêt plus qu'à exécuter !
