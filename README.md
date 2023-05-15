@@ -17,7 +17,7 @@ Elle permet de se creer un accès automate afin de pouvoir se connecter à ses p
 
 On obtient l'image suivante:
 
-![image](https://github.com/Patheux/Spotipy/assets/70717709/3f2e7f6a-5132-427b-8852-aca856ef0db9)
+![image](https://github.com/Patheux/Spotipy/assets/70717709/51dc0d5f-c342-4f43-ade9-20de1e9ac09c)
 
 il suffit de remplir les valeurs:
 - App name: comme vous voulez
