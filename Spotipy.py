@@ -18,7 +18,7 @@ redirect_uri = None # La même URL que celle rentrée dans L'API de Spotify
 username= None # Nom d'utilisateur Spotify
 
 # Verification Parameters
-scope = 'playlist-modify-private'
+scope = 'playlist-modify-private user-modify-private user-read-private playlist-read-private'
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=client_id,
                                                     client_secret=client_secret,
                                                     redirect_uri=redirect_uri,
